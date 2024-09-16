@@ -51,7 +51,7 @@
 <p align="left">
 <div>
    <img src="https://th.bing.com/th/id/OIP.dNCIjIbEgBYgUDggWAJ9kgHaHa?rs=1&pid=ImgDetMain" alt="Davinci Resolve" width="40" height="40"/>&nbsp;
-   <img src="https://logohistory.net/wp-content/uploads/2023/07/Canva-Emblem.png" alt="Canva" width="60" height="40"/>&nbsp;
+   <img src="https://logohistory.net/wp-content/uploads/2023/07/Canva-Emblem.png" alt="Canva" width="70" height="40"/>&nbsp;
    <img src="https://banner2.cleanpng.com/20180709/uxw/kisspng-picsart-photo-studio-logo-android-picsart-logo-5b44005bb95c22.7032920515311831957592.jpg" alt="Picsart" width="40" height="40"/>&nbsp;
    <img src="https://th.bing.com/th/id/OIP.3vzEye76-RasL7AriR8SAAHaHa?rs=1&pid=ImgDetMain" alt="Photoshop" width="40" height="40"/>&nbsp;
 <h3 align="left">Certifications:</h3>
