@@ -15,7 +15,7 @@
 
 - 🤔 I’m looking for help with ...
 
-- 💬 Ask me about ... Canva Editing, Ui Path, RPA, Python, PowerBI, SQL
+- 💬 Ask me about ... Canva Editing, Ui Path, RPA, Python, PowerBI, SQL, ML Using Python, Wordpress
 
 - 📫 How to reach me: <br> 1. Linkedin:- https://www.linkedin.com/in/ganeshkolimali/ <br> 2. Mail:- kolimaleganesh462@gmail.com <br> 3. Contact:- +91 9010437462 <br>
 
