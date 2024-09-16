@@ -40,22 +40,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://gss-technology.com/wp-content/uploads/2021/07/round7.png" alt="Python" width="40" height ="40"/>&nbsp;
 </div>
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-- Certified By HackerRank In Python Basic:- https://cert.diceid.com/csr/cid/TYFNZr <br>
+- Certified By HackerRank In Python Basic:- https://www.hackerrank.com/certificates/b7d81d0f34ec <br>
   
-- Certified By Cisco In Data Analytics Essentials:- https://lnkd.in/gX5tshct <br>
+- Certified By Cisco In Data Analytics Essentials:- https://drive.google.com/file/d/18Zny4_JFAA7w4tZ-B7gB9poAPg85t_Ki/view?usp=sharing <br>
 
-- Certified By Cisco In C Essentials:- https://drive.google.com/file/d/1kKkZVwS6ZUsuyhnqTDxk_AfhJeLKaXqn/view?usp=share_link <br>
+- Certified By Cisco In C Essentials:- https://https://drive.google.com/file/d/1hbWJuqufhSdxhtqC50W6m5_beK1J3RdS/view?usp=sharing <br>
 
-- Certified By Ulearn In ML Using Python:- https://drive.google.com/file/d/1cCkBiXmyi-vwstCO-Q73GHeM1sXCqO11/view?usp=sharing <br>
+- Certified By Ulearn In ML Using Python:- https://drive.google.com/file/d/1GWKig9ohTQ60mqbs4pRAO5ufUH2wrZRF/view?usp=sharing <br>
 
-- Certified By Pearson Mepro In English and Communication Skills:- https://drive.google.com/file/d/1kKkZVwS6ZUsuyhnqTDxk_AfhJeLKaXqn/view?usp=share_link <br>
+- Certified By Pearson Mepro In English and Communication Skills:- https://drive.google.com/file/d/1FtyyPMhWVJ3Yl48fKjVgtXqVR_TNcvMo/view?usp=sharing <br>
 
-- Certified By Oracle In Java Foundation:- https://drive.google.com/file/d/1APM4UUNTufIeUMD0pLAKNrsUcL2zGl3c/view <br>
+- Certified By Oracle In Java Foundation:- https://drive.google.com/file/d/1nQp_fHnvZ4w9Qy-ejimxeMJr7yvOgClJ/view?usp=sharing <br>
 
-- Certified By Oracle IN DBMS Foundation:- https://drive.google.com/file/d/1aEPoHK-jktJPoPCX20DuJzwNBmU8RHfw/view?usp=sharing <br>
+- Certified By Oracle IN DBMS Foundation:- https://drive.google.com/file/d/1Jc49xXuWNyxz8uvRdFIlW6sJNrnY0781/view?usp=sharing <br>
 
-- Certified By NIIT In Learning Management System:- https://lnkd.in/g6jRKAYZ <br>
+- Certified By NIIT In Learning Management System:- https://drive.google.com/file/d/1q_N0jZyITnHKrKpwjoueYkYvmGXwu4ep/view?usp=sharing <br>
