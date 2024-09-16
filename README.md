@@ -1,6 +1,10 @@
 <img src="[Linkedin Banners.jpg" alt="Cover Image" width="100%">
 
-## Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Kolimali+Ganesh!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+## <h3 align = center><b>About Me </b> </h3>
 
 - 🔭 I’m currently pursuing my Bachelor's Degree In The Stream Of ARTIFICIAL INTELLIGENCE AND ROBOTICS
 - 🌱 I’m currently learning Machine Learning and Editing
