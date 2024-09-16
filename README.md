@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG47.png" alt="Wordpres" width="40" height="40"/>&nbsp;
   <img src="https://www.pinpng.com/pngs/m/202-2022092_beltech-2018-icons-webside-schedule-machine-learning-icon.png" alt="Machine Learning" width="40" height="40"/>&nbsp;
+  <img src="https://brandlogos.net/wp-content/uploads/2021/11/uipath-logo-300x300.png" alt="Machine Learning" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.dNCIjIbEgBYgUDggWAJ9kgHaHa?rs=1&pid=ImgDetMain" alt="Machine Learning" width="40" height="40"/>&nbsp;
 </div>
 
 <h3 align="left">Certifications:</h3>
