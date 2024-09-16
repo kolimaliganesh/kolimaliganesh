@@ -1,4 +1,4 @@
-<img src="[https://github.com/kolimaliganesh/kolimaliganesh/blob/ac41631b5c67a94cc7dd54d50fda74d831f37090/Linkedin%20Banners.jpg" alt="Cover Image" width="100%">
+<img src="[Linkedin Banners.jpg" alt="Cover Image" width="100%">
 
 ## Here are some ideas to get you started:
 
