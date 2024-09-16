@@ -43,6 +43,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG47.png" alt="Wordpres" width="40" height="40"/>&nbsp;
+  <img src="https://www.pinpng.com/pngs/m/202-2022092_beltech-2018-icons-webside-schedule-machine-learning-icon.png" alt="Machine Learning" width="40" height="40"/>&nbsp;
 </div>
 
 <h3 align="left">Certifications:</h3>
