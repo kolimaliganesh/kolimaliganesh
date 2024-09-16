@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
 **kolimaliganesh/kolimaliganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my Bachelor's Degree In The Stream Of ARTIFICIAL INTELLIGENCE AND ROBOTICS
 - 🌱 I’m currently learning Machine Learning and Editing
