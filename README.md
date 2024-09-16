@@ -1,7 +1,7 @@
 <img src="https://github.com/kolimaliganesh/kolimaliganesh/blob/b3d2e153248039b2bf15e4d69a4d6a124c45da32/Banner.png" alt="Cover Image" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Kolimali+Ganesh!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Ganesh+Kolimali!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ## <h3 align = center><b>About Me </b> </h3>
