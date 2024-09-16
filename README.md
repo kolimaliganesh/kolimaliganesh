@@ -47,7 +47,8 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  <ul type ="circle">
+  <ul type ="disc">
+    
 - Certified By HackerRank In Python Basic:- https://www.hackerrank.com/certificates/b7d81d0f34ec <br>
   
 - Certified By Cisco In Data Analytics Essentials:- https://drive.google.com/file/d/18Zny4_JFAA7w4tZ-B7gB9poAPg85t_Ki/view?usp=sharing <br>
