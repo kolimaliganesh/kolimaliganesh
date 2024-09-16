@@ -45,9 +45,15 @@
   <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG47.png" alt="Wordpres" width="40" height="40"/>&nbsp;
   <img src="https://www.pinpng.com/pngs/m/202-2022092_beltech-2018-icons-webside-schedule-machine-learning-icon.png" alt="Machine Learning" width="40" height="40"/>&nbsp;
   <img src="https://brandlogos.net/wp-content/uploads/2021/11/uipath-logo-300x300.png" alt="UiPath" width="60" height="60"/>&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.dNCIjIbEgBYgUDggWAJ9kgHaHa?rs=1&pid=ImgDetMain" alt="Davinci Resolve" width="40" height="40"/>&nbsp;
+ 
 </div>
-
+<h3 align="left">Editing Softwares I Had Learned:</h3>
+<p align="left">
+<div>
+   <img src="https://th.bing.com/th/id/OIP.dNCIjIbEgBYgUDggWAJ9kgHaHa?rs=1&pid=ImgDetMain" alt="Davinci Resolve" width="40" height="40"/>&nbsp;
+   <img src="https://logohistory.net/wp-content/uploads/2023/07/Canva-Emblem.png" alt="Canva" width="40" height="40"/>&nbsp;
+   <img src="https://banner2.cleanpng.com/20180709/uxw/kisspng-picsart-photo-studio-logo-android-picsart-logo-5b44005bb95c22.7032920515311831957592.jpg" alt="Picsart" width="40" height="40"/>&nbsp;
+   <img src="https://th.bing.com/th/id/OIP.3vzEye76-RasL7AriR8SAAHaHa?rs=1&pid=ImgDetMain" alt="Photoshop" width="40" height="40"/>&nbsp;
 <h3 align="left">Certifications:</h3>
 <p align="left"> <ul type ="disc">
     
