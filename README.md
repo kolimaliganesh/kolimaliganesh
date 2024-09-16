@@ -1,3 +1,4 @@
+
 <img src="https://github.com/kolimaliganesh/kolimaliganesh/blob/b3d2e153248039b2bf15e4d69a4d6a124c45da32/Banner.png" alt="Cover Image" width="100%">
 
 <p align="center">
@@ -7,12 +8,21 @@
 ## <h3 align = center><b>About Me </b> </h3>
 
 - 🔭 I’m currently pursuing my Bachelor's Degree In The Stream Of ARTIFICIAL INTELLIGENCE AND ROBOTICS
+
 - 🌱 I’m currently learning Machine Learning and Editing
+
 - 👯 I’m looking to collaborate on Editing, Developer
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ... Canva Editing, Ui Path, RPA, Python, PowerBI, SQL
-- 📫 How to reach me: <br> 1. Linkedin:- https://www.linkedin.com/in/ganeshkolimali/ <br> 2. Mail:- kolimaleganesh462@gmail.com <br> 3. Contact:- +91 9010437462 <br> 
+
+- 📫 How to reach me: <br> 1. Linkedin:- https://www.linkedin.com/in/ganeshkolimali/ <br> 2. Mail:- kolimaleganesh462@gmail.com <br> 3. Contact:- +91 9010437462 <br>
+
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://drive.google.com/file/d/1Ba3Rp-9T5Yjnd-wqepbhn0dSx0fD-VmE/view?usp=sharing)]]
+
 - 😄 Pronouns: 
+
 - ⚡ Fun fact: I am Student, Editor, Coder.
 
 <h3 align="left">Programming Languages I Had Learned:</h3>
@@ -31,3 +41,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
+
+<h3 align="left">Certifications:</h3>
+<p align="left">
+- Certified By HackerRank In Python Basic:- https://cert.diceid.com/csr/cid/TYFNZr <br>
+  
+- Certified By Cisco In Data Analytics Essentials:- https://lnkd.in/gX5tshct <br>
+
+- Certified By Cisco In C Essentials:- https://drive.google.com/file/d/1kKkZVwS6ZUsuyhnqTDxk_AfhJeLKaXqn/view?usp=share_link <br>
+
+- Certified By Ulearn In ML Using Python:- https://drive.google.com/file/d/1cCkBiXmyi-vwstCO-Q73GHeM1sXCqO11/view?usp=sharing <br>
+
+- Certified By Pearson Mepro In English and Communication Skills:- https://drive.google.com/file/d/1kKkZVwS6ZUsuyhnqTDxk_AfhJeLKaXqn/view?usp=share_link <br>
+
+- Certified By Oracle In Java Foundation:- https://drive.google.com/file/d/1APM4UUNTufIeUMD0pLAKNrsUcL2zGl3c/view <br>
+
+- Certified By Oracle IN DBMS Foundation:- https://drive.google.com/file/d/1aEPoHK-jktJPoPCX20DuJzwNBmU8RHfw/view?usp=sharing <br>
+
+- Certified By NIIT In Learning Management System:- https://lnkd.in/g6jRKAYZ <br>
