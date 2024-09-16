@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://gss-technology.com/wp-content/uploads/2021/07/round7.png" alt="Python" width="50" height ="40"/>&nbsp;
+  <img src="https://gss-technology.com/wp-content/uploads/2021/07/round7.png" alt="Python" width="50" height ="50"/>&nbsp;
 </div>
 
 <h3 align="left">Certifications:</h3>
