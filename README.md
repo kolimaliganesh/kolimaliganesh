@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [[[https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://drive.google.com/file/d/1Ba3Rp-9T5Yjnd-wqepbhn0dSx0fD-VmE/view?usp=sharing)]]
 
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I am Student, Editor, Coder.
 
