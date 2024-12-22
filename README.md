@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact: I am Student, Editor, Coder.
 
-<h3 align="left">Programming Languages I Had Learned:</h3>
+<h3 align="left">Programming Languages :</h3>
 <p align="left">
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
@@ -43,11 +43,11 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG47.png" alt="Wordpres" width="40" height="40"/>&nbsp;
-  <img src="https://www.pinpng.com/pngs/m/202-2022092_beltech-2018-icons-webside-schedule-machine-learning-icon.png" alt="Machine Learning" width="40" height="40"/>&nbsp;
+  <img src="https://i.pinimg.com/originals/51/e0/86/51e08692918050511c90908ffa7976df.jpg" alt="Machine Learning" width="40" height="40"/>&nbsp;
   <img src="https://brandlogos.net/wp-content/uploads/2021/11/uipath-logo-300x300.png" alt="UiPath" width="60" height="60"/>&nbsp;
  
 </div>
-<h3 align="left">Editing Softwares I Had Learned:</h3>
+<h3 align="left">Editing Softwares :</h3>
 <p align="left">
 <div>
    <img src="https://th.bing.com/th/id/OIP.dNCIjIbEgBYgUDggWAJ9kgHaHa?rs=1&pid=ImgDetMain" alt="Davinci Resolve" width="40" height="40"/>&nbsp;
